@@ -24,6 +24,5 @@ jobs:
       - name: Run tests
         run: npm test
 
-      - name: Build data
-        run: node run.js
+    
 
